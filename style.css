@@ -12,7 +12,7 @@ body {
 .carousel-container {
 	margin: auto;
 	width: 1366px;
-	height: 696px;
+	height: 668px;
 	overflow: hidden;
 	/*border: 20px solid tomato; */
 }
@@ -25,5 +25,5 @@ body {
 .slider img {
 	object-fit: cover;
 	width: 1366px;
-	height: 696px;
+	height: 668px;
 }
