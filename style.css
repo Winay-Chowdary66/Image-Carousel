@@ -1,0 +1,29 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	align-items: center;
+	justify-content: center;
+	position: relative;
+}
+
+.carousel-container {
+	margin: auto;
+	width: 1366px;
+	height: 696px;
+	overflow: hidden;
+	/*border: 20px solid tomato; */
+}
+
+.slider {
+	transition: transform 0.3s ease-in-out;
+	transform: translateY(0);
+}
+
+.slider img {
+	object-fit: cover;
+	width: 1366px;
+	height: 696px;
+}
