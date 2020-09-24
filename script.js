@@ -9,7 +9,7 @@ function run() {
 		count = 0;
 	}
 
-	slider.style.transform = 'translateY(' + -count * 700 + 'px)';
+	slider.style.transform = 'translateY(' + -count * 668 + 'px)';
 }
 setInterval(() => {
 	run();
